@@ -12,24 +12,24 @@ This project is part of the **Practical Data Science with Python** course at RMI
 ## Tasks Overview
 
 ### 1. Data Retrieval and Preparation
-- **Objective**: Selected BuddyMove Data Set from UCI's Machine Learning Repository, converted it to CSV format if necessary, and thoroughly pre-processed the data.
+- **Objective**: Select BuddyMove Data Set from UCI's Machine Learning Repository, convert it to CSV format if necessary, and thoroughly pre-process the data.
 - **Steps**:
   - Loaded and examined the dataset using `pandas`.
   - Performed necessary pre-processing steps, such as handling missing values, normalizing data, and encoding categorical variables.
 
 ### 2. Data Exploration
-- **Objective**: Explored the data to gain insights into each attribute and relationships between pairs of attributes.
+- **Objective**: Explore the data to gain insights into each attribute and relationships between pairs of attributes.
 - **Explorations**:
   - Descriptive statistics and visualizations for each attribute.
   - Correlation analysis between pairs of attributes, with relevant visualizations to illustrate relationships.
 
 ### 3. Data Modeling
-- **Objective**: Modeled the data using decision tree classifier models and K-Nearest Neighbour classifier models with various split ratios for training and test data (60/40, 50/50, 80/20).
+- **Objective**: Model the data using decision tree classifier models and K-Nearest Neighbour classifier models with various split ratios for training and test data (60/40, 50/50, 80/20).
 - **Steps**:
   - Selected and trained two models using `scikit-learn`.
 
 ### 4. Report
-- **Objective**: Documented the entire process from data preparation to model evaluation.
+- **Objective**: Document the entire process from data preparation to model evaluation.
 - **Content**:
   - Introduction, methodology, results, and discussion sections.
   - Detailed analysis and comparison of the models.
